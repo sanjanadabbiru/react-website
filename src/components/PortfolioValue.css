@@ -1,0 +1,23 @@
+.portfoliovalue .card {
+    background-color: #333851 ;
+}
+
+.portfoliovalue .navbar-brand {
+    background-color: #333851;
+    color:#A3ADC7;
+    height:24vh
+}
+.portfoliovalue .card-header{
+    background-color: #333851 ;
+    color:var(--maintext);
+    padding:4px;
+    font-size: 18px;
+    display: flex
+}
+.portfoliovalue .card-body{
+    padding:0;
+    display: flex
+}
+
+
+

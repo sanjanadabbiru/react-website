@@ -1,0 +1,21 @@
+.menu .card-header{
+    background-color: #333851 ;
+    color:var(--maintext);
+    padding:4px
+}
+.menu .card{
+    background-color: #333851 ;
+    
+}
+.menu .card-body {
+  padding:0;
+  
+}
+.menu .list-group-item{
+    background-color: #333851 ;
+    color:var(--maintext)
+}
+.menu .list-group-item:hover{
+    background-color:#383A60;
+    color:var(--maintext)
+}

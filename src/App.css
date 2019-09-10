@@ -1,0 +1,32 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #293046;
+  height:100vh;
+  max-height: 100%
+}
+
+.menu {
+  width: 300px;
+
+  margin: 10 px;
+  font-size: 16px;
+
+  box-sizing: border-box;
+  background-color: var(--mainbg);
+}
+.overview {
+  width: 100%;
+  margin: 10px;
+  color:var(--maintext);
+  font-size: 35px;
+  background-color: var(--mainbg);
+}
+.portfoliovalue {
+  width: 300px;
+color:var(--maintext);
+  font-size: 35px;
+  box-sizing: border-box;
+  background-color: #333851;
+}
+
